@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+
 import socket
 import os
 import time
@@ -52,6 +53,3 @@ while True:
     except socket.error:
         print(yellow,"[-] Can't reach the server...")
         sys.exit(1)
-
-
-
