@@ -8,6 +8,6 @@
 
 # Download
 	- git clone https://github.com/jc-sec/simplerat.git
-	- https://github.com/jc-sec/archive/master.zip
+	- https://github.com/jc-sec/simplerat/archive/refs/heads/main.zip
 # Requirements
 	- pip3 install -r requirements.txt
